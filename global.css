@@ -1,0 +1,15 @@
+.error {
+    color: red;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+table, td, tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
